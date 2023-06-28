@@ -14,3 +14,5 @@ URLs:
 
 http://localhost:3000/fusesearch
 http://localhost:3000/lunarsearch
+
+# react-fuzzy-and-full-text-search
